@@ -1,0 +1,1 @@
+{"name":"native-nature","version":"1.0.0","private":true,"description":"Native Nature by Senthoor Foods India","scripts":{"dev":"node server.cjs","check":"node --check dist/app.js"}}
