@@ -1,19 +1,27 @@
 [
   {
-    "id": "hero",
-    "artist": "Polina",
-    "source": "https://www.pexels.com/photo/a-still-life-photography-of-assorted-fruits-on-a-beige-surface-7250032/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/hero.webp"
+    "id": "harvest",
+    "artist": "AI-generated with OpenAI image generation",
+    "image": "assets/editorial/harvest.jpg",
+    "note": "Original editorial illustration; not actual inventory photography."
+  },
+  {
+    "id": "cashew-apple",
+    "artist": "AI-generated with OpenAI image generation",
+    "image": "assets/editorial/cashew-apple.jpg",
+    "note": "Original editorial illustration; not actual inventory photography."
   },
   {
     "id": "jackfruit",
-    "artist": "Felipe Ferreira",
-    "source": "https://www.pexels.com/photo/jackfruit-in-close-up-photography-800666/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/jackfruit.webp"
+    "artist": "AI-generated with OpenAI image generation",
+    "image": "assets/editorial/jackfruit.jpg",
+    "note": "Original editorial illustration; not actual inventory photography."
+  },
+  {
+    "id": "vetiver",
+    "artist": "AI-generated with OpenAI image generation",
+    "image": "assets/editorial/vetiver.jpg",
+    "note": "Original editorial illustration; not actual inventory photography."
   },
   {
     "id": "banana",
@@ -24,84 +32,12 @@
     "image": "assets/photos/banana.webp"
   },
   {
-    "id": "nuts",
-    "artist": "Pexels contributor",
-    "source": "https://www.pexels.com/photo/overhead-shot-of-brown-walnuts-and-almonds-7420937/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/nuts.webp"
-  },
-  {
     "id": "groundnut",
     "artist": "Pexels contributor",
     "source": "https://www.pexels.com/photo/close-up-shot-of-peanuts-6086351/",
     "license": "Pexels License",
     "licenseUrl": "https://www.pexels.com/license/",
     "image": "assets/photos/groundnut.webp"
-  },
-  {
-    "id": "pistachio",
-    "artist": "Pexels contributor",
-    "source": "https://www.pexels.com/photo/pistachio-nuts-on-white-surface-10060931/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/pistachio.webp"
-  },
-  {
-    "id": "dryfruits",
-    "artist": "Pexels contributor",
-    "source": "https://www.pexels.com/photo/dried-figs-in-market-10323346/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/dryfruits.webp"
-  },
-  {
-    "id": "dates",
-    "artist": "Pexels contributor",
-    "source": "https://www.pexels.com/photo/close-up-photo-of-raisins-and-dates-2291592/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/dates.webp"
-  },
-  {
-    "id": "raisins",
-    "artist": "Pexels contributor",
-    "source": "https://www.pexels.com/photo/close-up-shot-of-raisins-6086413/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/raisins.webp"
-  },
-  {
-    "id": "fruits",
-    "artist": "Erik Karits",
-    "source": "https://www.pexels.com/photo/fresh-variety-of-fruits-10833577/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/fruits.webp"
-  },
-  {
-    "id": "cardamom",
-    "artist": "Pexels contributor",
-    "source": "https://www.pexels.com/photo/pile-of-green-cardamoms-6086300/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/cardamom.webp"
-  },
-  {
-    "id": "ginger",
-    "artist": "Engin Akyurt",
-    "source": "https://www.pexels.com/photo/fresh-ginger-10112135/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/ginger.webp"
-  },
-  {
-    "id": "spices",
-    "artist": "Joel Camelot",
-    "source": "https://www.pexels.com/photo/assorted-spices-in-bowls-with-cinnamon-sticks-32281706/",
-    "license": "Pexels License",
-    "licenseUrl": "https://www.pexels.com/license/",
-    "image": "assets/photos/spices.webp"
   },
   {
     "id": "rice",

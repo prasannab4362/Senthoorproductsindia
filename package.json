@@ -5,6 +5,7 @@
   "description": "Native Nature by Senthoor Foods India",
   "scripts": {
     "dev": "node server.cjs",
-    "check": "node --check dist/catalogue.js"
+    "check": "node --check dist/catalogue.js",
+    "test": "node tests/catalogue.test.cjs"
   }
 }
