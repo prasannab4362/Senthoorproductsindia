@@ -6,11 +6,11 @@ Run `npm run dev` and visit http://127.0.0.1:4173. Run `npm run check` for JavaS
 
 ## Content and enquiries
 
-The fifteen photo-led collections cover the requested fruits, nuts, dry fruits, seeds, spices, roots, banana, jackfruit, rice and seafood. Ingredient lists are enquiry options; exact availability, grades, pack sizes and supplied forms require confirmation. The website does not claim certifications, fixed prices or stock levels.
+Seven collections cover value-added possibilities from banana, cashew, cashew apple, seafood, groundnut, jackfruit and vetiver. Every collection includes product examples and a dedicated story. Examples are enquiry options, not confirmed inventory; current products, pack sizes and supplied forms require confirmation. The website does not claim certifications, fixed prices or stock levels.
 
 Contact: T.M. Kumar; Pks Prabu; senthoorproducts@gmail.com. Address: 118A Hospital Street, Kurinjipadi 607302, Cuddalore District, Tamil Nadu, India. Enquiries prepare WhatsApp and email links for the visitor to review and send. No message is automatically sent and no form data is stored on a server.
 
-All displayed raster photos are free-use Pexels stock photographs, not photos of the company's inventory. Sources and licences are in `dist/photo-credits.json` and the public `dist/photo-credits.html` page. Images are locally stored WebP files. Fonts use Google Fonts with system fallbacks.
+Cashew apple and vetiver use original SVG illustrations. All displayed raster photos are free-use Pexels stock photographs, not photos of the company's inventory. Sources and licences are in `dist/photo-credits.json` and the public `dist/photo-credits.html` page. Images are locally stored WebP files. Fonts use Google Fonts with system fallbacks.
 
 ## Editing
 
